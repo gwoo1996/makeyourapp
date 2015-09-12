@@ -4,9 +4,9 @@ require 'rake'
 begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
-    gem.name = "korean-string"
-    gem.summary = %Q{Korean string join and split}
-    gem.description = %Q{Split Korean characters to individual compontents, join components together to create characters}
+    gem.name = "makeyourapp"
+    gem.summary = %Q{Korean string joinx and split}
+    gem.description = %Q{Split xKorean characters to individual compontents, join components together to create characters}
     gem.email = "benhumphreys@gmail.com"
     gem.homepage = "http://github.com/bhumphreys/korean-string"
     gem.authors = ["Ben Humphreys"]
