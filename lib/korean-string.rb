@@ -34,7 +34,7 @@ JONGSUNG  = [ 0x0058, 0x3131, 0x3132, 0x3133, 0x3134, 0x3135, 0x3136, 0x3137,
 # Not wrapping this in a module... not sure if that's a terrible idea
 
 class String
-  def split_ko
+  def split_kox
 
     raw_chars = self.unpack("U*")
 
